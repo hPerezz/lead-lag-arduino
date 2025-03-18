@@ -17,7 +17,7 @@ G(s) = \frac{8}{s^2 + 1.6s + 4}
 
 Para a discretização, foi escolhida uma **taxa de amostragem** de **0.3 segundos**, seguindo a regra de amostragem **10x a frequência natural do sistema**.
 
-A discretização usando o método **Zero-Order Hold (ZOH)** resulta na função de transferência discreta **G(z)**:
+A discretização usando o método **Tustin** e resultou na função de transferência discreta **G(z)**:
 
 ```math
 G(z) = \frac{z - 1.341z + 0.61882}{0.2998z + 0.2551}
