@@ -134,7 +134,7 @@ Este projeto apresentou o **desenvolvimento, discretização e implementação**
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/hPerezz/lead-lag-arduino.git
    ```
 2. Carregue o código no **Arduino** usando o **Arduino IDE**.
 3. Conecte um sensor analógico na entrada **A0** e um atuador na saída **PWM 9**.
