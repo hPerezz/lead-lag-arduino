@@ -1,6 +1,6 @@
 # Controlador Lead-Lag no Arduino
 
-Este repositório contém a implementação de um **Controlador Lead-Lag** para um sistema dinâmico no **Arduino**, baseado na discretização de um sistema contínuo utilizando as transformações **Zero-Order Hold (ZOH)** e **Tustin**.
+Este repositório contém a implementação de um **Controlador Lead-Lag** para um sistema dinâmico no **Arduino**, baseado na discretização de um sistema contínuo utilizando as transformações de **Tustin**.
 
 ## 📌 Objetivo
 O objetivo deste projeto é projetar e implementar um controlador Lead-Lag para melhorar a estabilidade e o desempenho de um sistema dinâmico, ajustando a **frequência de cruzamento de ganho** e a **margem de fase** para valores desejados.
